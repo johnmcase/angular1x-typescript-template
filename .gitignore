@@ -1,0 +1,9 @@
+.tmp/
+.vscode/
+dist/
+node_modules/
+reports/
+
+npm-debug.log*
+
+.DS_Store
